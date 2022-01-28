@@ -23,13 +23,17 @@ main {
 
 .title {
   font-size: 40px;
+  color: rgb(18, 129, 83);
   margin: 0;
+  text-decoration: underline;
 }
 
 .instructions {
   font-family: "Inter", sans-serif;
   font-weight: 400;
+  font-style: italic;
   margin-top: 0;
+  color: #5035ff;
   text-align: center;
 }
 
@@ -77,8 +81,8 @@ main {
 .dieRolled {
   color: #5035ff;
   background-color: lightblue;
-  padding: 2px;
-  box-shadow: 2px 2px 2px black;
+  padding: 0.5rem;
+  border-radius: 5px;
 }
 
 .center {

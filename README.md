@@ -11,10 +11,8 @@ https://user-images.githubusercontent.com/81517284/145707657-85178787-3c53-4102-
 - Roll until all dice are the same.
 - Click each die to freeze it at its current value between rolls.
 - Player with least number of times Die Rolled wins the game.
-  > You can also change the number in between the
+  > You can also change the number in between the game
 
-
- game.
 
 ---
 
