@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/81517284/145707657-85178787-3c53-4102-
 
 ---
 
-## [Live Game](https://u69r4.csb.app/)
+## [Live Game](https://vx18q.csb.app/)
 #### How to PLAY:
 
 - Select the number you want to hold
